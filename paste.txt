@@ -1,0 +1,21 @@
+commit 682240310ff5b1b7b2ddc8a3e3fae2ab701897b1 (HEAD -> master)
+Author: Ryan HEpford <rhepford@bbandt.com>
+Date:   Fri Aug 3 10:50:40 2018 -0400
+
+    removed contractions from contact page
+
+commit 2228f7bf90207249b9a40eb4b50e73589a4b84b1
+Author: Ryan HEpford <rhepford@bbandt.com>
+Date:   Fri Aug 3 10:50:18 2018 -0400
+
+    Renamed backpack cal for clarity
+
+commit 7ce431df82358dcbcb7a7e26c285e15622b132e1
+Author: Ryan HEpford <rhepford@bbandt.com>
+Date:   Fri Aug 3 10:38:57 2018 -0400
+
+    Changed 24 hour support number to 4314
+
+commit c7048bd79af79bbfdc476b928f7422538c00a11b
+Author: Ryan HEpford <rhepford@bbandt.com>
+Date:   Fri Aug 3 10:30:51 2018 -0400
